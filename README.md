@@ -147,3 +147,5 @@ body {
   padding: 0; /* 这种注释内容会出现在生成的css文件中 */
 }
 ```
+
+本文参考的是[sass官网](http://sass.bootcss.com/)，有兴趣的可以一起交流学习！
